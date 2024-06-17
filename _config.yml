@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Likai Tian"
-description              : "Fighting!"
+description              : "Master at WHU AIM Lab"
 repository               : "memory-tech/memory-tech.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Likai Tian 田丽凯"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master at WHU AIM Lab"
+  bio              : "Fighting!"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
