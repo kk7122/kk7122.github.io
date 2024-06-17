@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a 1st-year Master student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/).
 
-My research interest lies on multi-model retrieval and computer vision. If you are seeking any form of academic cooperation on multi-model retrieval and RAG, please feel free to email at [tianlikai@whu.edu.cn](tianlikai@whu.edu.cn).
+My research interest focuses on multi-model retrieval and computer vision. If you are seeking any form of academic cooperation on multi-model retrieval and RAG, please feel free to email at [tianlikai@whu.edu.cn](tianlikai@whu.edu.cn).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -46,8 +46,8 @@ My research interest lies on multi-model retrieval and computer vision. If you a
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.10* I win the Freshman Scholarship at Wuhan University
-- *2019.10 - 2023.06* I win the Outstanding Student Scholarship 3 times at Wuhan University
+- *2023.10*, I win the Freshman Scholarship at Wuhan University
+- *2019.10 - 2023.06*, I win the Outstanding Student Scholarship 3 times at Wuhan University
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
