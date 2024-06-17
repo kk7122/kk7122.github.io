@@ -26,7 +26,7 @@ My research interest lies on multi-model retrieval and computer vision. If you a
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
-- *2023.10*: &nbsp;🎉🎉 I win freshman scholarship at Wuhan University!
+- *2023.10*: &nbsp;🎉🎉 I win the Freshman Scholarship at Wuhan University!
 
 # 📝 Publications 
 
@@ -46,8 +46,8 @@ My research interest lies on multi-model retrieval and computer vision. If you a
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.10* I win the Freshman Scholarship at Wuhan University. 
-- *2019.10 - 2023.06* I win the Outstanding Student Scholarship multiple times at Wuhan University." 
+- *2023.10* I win the Freshman Scholarship at Wuhan University
+- *2019.10 - 2023.06* I win the Outstanding Student Scholarship 3 times at Wuhan University
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
