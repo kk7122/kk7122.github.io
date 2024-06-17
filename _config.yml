@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Likai Tian 田丽凯"
-description              : "Master at WHU AIM Lab."
+title                    : "Likai Tian"
+description              : #"Master at WHU AIM Lab."
 repository               : "memory-tech/memory-tech.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Likai Tian"
+  name             : "Likai Tian 田丽凯"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
+  bio              : #"Wuhan University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
