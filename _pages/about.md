@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 1st-year Master student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I received my Bachelor's degree from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
+I am currently a 1st-year Master student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). I received my Bachelor's degree from [School of Computer Science (计算机学院)](https://cs.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/).
 
 My research interest focuses on multi-model retrieval and computer vision. If you are seeking any form of academic cooperation on multi-model retrieval and RAG, please feel free to email at [tianlikai@whu.edu.cn](tianlikai@whu.edu.cn).
 
