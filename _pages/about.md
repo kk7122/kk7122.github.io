@@ -47,8 +47,8 @@ My research interest focuses on multi-model retrieval and computer vision. If yo
 
 # 🎖 Honors and Awards
 - *2023.10*, Outstanding Freshman of Wuhan University
-- *2020.09 - 2023.06*, Outstanding Student Scholarship of Wuhan University （three times）
-
+- *2020.09 - 2023.06*, Advanced Individual of Wuhan University (3 times)
+- *2020.09 - 2023.06*, Outstanding Student Scholarship of Wuhan University (3 times)
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University, Wuhan.
