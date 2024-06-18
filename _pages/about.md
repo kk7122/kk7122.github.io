@@ -29,15 +29,12 @@ My research interest focuses on multi-model retrieval and computer vision. If yo
 - *2023.10*: &nbsp;🎉🎉 I win the Freshman Scholarship at Wuhan University!
 
 # 📝 Publications 
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Likai Tian**, Zhengwei Yang, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - This work highlights the significance of salient frames in the Video-to-Shop Retrieval task and introduce fashion expressiveness to determine the saliency of each video frame.
 - This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. 
 </div>
@@ -49,6 +46,7 @@ My research interest focuses on multi-model retrieval and computer vision. If yo
 - *2023.10*, Outstanding Freshman Scholarship of Wuhan University
 - *2020.09 - 2023.06*, Advanced Individual of Wuhan University (3 times)
 - *2020.09 - 2023.06*, Outstanding Student Scholarship of Wuhan University (3 times)
+
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University, Wuhan.
