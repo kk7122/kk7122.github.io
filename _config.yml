@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Likai Tian"
 description              : "Master at WHU AIM Lab"
-repository               : "memory-tech/memory-tech.github.io"
+repository               : "LikaiTian/LikaiTian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "memory-tech"
+  github           : "LikaiTian"
   google_plus      :
   keybase          :
   instagram        :
