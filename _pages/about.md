@@ -31,11 +31,11 @@ My research interest focuses on multi-model retrieval and computer vision. If yo
 # 📝 Publications 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://likaitian.github.io/)
 
 **Likai Tian**, Zhengwei Yang, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang
 
-- This work highlights the significance of salient frames in the Video-to-Shop Retrieval task and introduce fashion expressiveness to determine the saliency of each video frame.
+<!-- - This work highlights the significance of salient frames in the Video-to-Shop Retrieval task and introduce fashion expressiveness to determine the saliency of each video frame. -->
 - This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. 
 </div>
 </div>
