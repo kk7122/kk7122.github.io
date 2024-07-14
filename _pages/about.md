@@ -21,7 +21,7 @@ I am currently a 1st-year Master student of [AIM Lab](http://aim-nercms.whu.edu.
 
 My research interest focuses on multi-model retrieval and computer vision. If you are seeking any form of academic cooperation on multi-model retrieval and RAG, please feel free to email at [tianlikai@whu.edu.cn](mailto:tianlikai@whu.edu.cn).
 
-<a href='../assets/CV.pdf'>CV<strong></strong></a>
+<a href='https://likaitian.github.io/'>CV<strong></strong></a>
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
