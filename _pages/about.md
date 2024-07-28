@@ -24,6 +24,7 @@ My research interest focus on multi-model retrieval and computer vision. If you 
 <a href='https://likaitian.github.io/'>CV<strong></strong></a>
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 I attend IJCAI2024 in Jeju, Korea!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
 - *2023.10*: &nbsp;🎉🎉 I win the Freshman Scholarship at Wuhan University!
 
