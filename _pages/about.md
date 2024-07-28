@@ -30,7 +30,7 @@ My research interest focus on multi-model retrieval and computer vision. If you 
 # 📝 Publications 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://likaitian.github.io/)
+[Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://www.ijcai.org/Proceedings/2024/0148.pdf)
 
 **Likai Tian**, Zhengwei Yang, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang
 
