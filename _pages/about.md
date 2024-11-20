@@ -43,6 +43,8 @@ His research interest focus on multi-modal retrieval and computer vision. If you
 
 # 🎖 Honors and Awards
 - *2024.11*, National Scholarship at Wuhan University
+- *2024.11*, First Prize Graduate Study Scholarship at Wuhan University
+- *2024.11*, Outstanding Graduate Student at Wuhan University
 - *2023.10*, Outstanding Freshman Scholarship at Wuhan University
 - *2020.09 - 2023.06*, Advanced Individual at Wuhan University (3 times)
 - *2020.09 - 2023.06*, Outstanding Student Scholarship at Wuhan University (3 times)
