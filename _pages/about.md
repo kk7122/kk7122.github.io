@@ -23,9 +23,9 @@ His research interest focus on multi-model retrieval and computer vision. If you
 <!--<a href='https://likaitian.github.io/'>CV<strong></strong></a> -->
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 He won the National Scholarship at Wuhan University!
 - *2024.08*: &nbsp;🎉🎉 He attends IJCAI2024 in Jeju, Korea!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
-- *2023.10*: &nbsp;🎉🎉 He won the Freshman Scholarship at Wuhan University!
 
 # 📝 Publications 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
@@ -42,10 +42,10 @@ His research interest focus on multi-model retrieval and computer vision. If you
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.11*, National Scholarship of Wuhan University
-- *2023.10*, Outstanding Freshman Scholarship of Wuhan University
-- *2020.09 - 2023.06*, Advanced Individual of Wuhan University (3 times)
-- *2020.09 - 2023.06*, Outstanding Student Scholarship of Wuhan University (3 times)
+- *2024.11*, National Scholarship at Wuhan University
+- *2023.10*, Outstanding Freshman Scholarship at Wuhan University
+- *2020.09 - 2023.06*, Advanced Individual at Wuhan University (3 times)
+- *2020.09 - 2023.06*, Outstanding Student Scholarship at Wuhan University (3 times)
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
