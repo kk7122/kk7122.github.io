@@ -32,7 +32,7 @@ His research interest focus on multi-modal retrieval and computer vision. If you
 <div class='paper-box-text' markdown="1">
 [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://www.ijcai.org/Proceedings/2024/0148.pdf)
 
-**Likai Tian**, Zhengwei Yang, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang
+**Likai Tian**, Zhengwei Yang, Zechao Hu, Hao Li, Yifang Yin, Zheng Wang
 
 <!-- - This work highlights the significance of salient frames in the Video-to-Shop Retrieval task and introduce fashion expressiveness to determine the saliency of each video frame. -->
 - This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. 
