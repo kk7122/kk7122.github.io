@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-He is currently a 1st-year Master student of [AIM Lab](http://125.220.157.135:9999/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). He received his Bachelor's degree from [School of Computer Science (计算机学院)](https://cs.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/).
+He is currently a 2nd-year Master student of [AIM Lab](http://125.220.157.135:9999/) at [National Engineering Research Center for Multimedia Software (国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/), extremely fortunate to be supervised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). He received his Bachelor's degree from [School of Computer Science (计算机学院)](https://cs.whu.edu.cn/), [Wuhan University (武汉大学)](https://www.whu.edu.cn/).
 
-His research interest focus on multi-model retrieval and computer vision. If you are seeking any form of academic cooperation on multi-model retrieval and RAG, please feel free to email at [tianlikai@whu.edu.cn](mailto:tianlikai@whu.edu.cn).
+His research interest focus on multi-modal retrieval and computer vision. If you are seeking any form of academic cooperation on multi-modal retrieval and RAG, please feel free to email at [tianlikai@whu.edu.cn](mailto:tianlikai@whu.edu.cn).
 
 <!--<a href='https://likaitian.github.io/'>CV<strong></strong></a> -->
 
