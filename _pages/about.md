@@ -54,6 +54,6 @@ His research interest focus on multi-modal retrieval. If you are seeking any for
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University, Wuhan.
 
 # 💻 Internships
-- *2024.05 - 2024.08*, [TeleAI](https://github.com/Tele-AI), China.
+- *2024.05 - 2024.08*, [TeleAI](https://github.com/Tele-AI), Beijing, China.
 
 <!-- <a href='https://clustrmaps.com/site/1c0bx'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=PhRxOfuuZ33DJqs-MGzFmdHwGYh4AMOmmbLFXFRcOyU'/></a> -->
