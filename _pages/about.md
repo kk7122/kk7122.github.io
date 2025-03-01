@@ -35,7 +35,7 @@ His research interest focus on multi-modal retrieval. If you are seeking any for
 
 **Likai Tian**, Jian Zhao, Zechao Hu, Zhengwei Yang, Hao Li, Lei Jin, Zheng Wang, Xuelong Li
 
-- This work proposes a Compositional Conflict Identification and Neutralization (CCIN) framework, which sequentially identifies and neutralizes compositional conflicts for effective retrieval
+- This work proposes a Compositional Conflict Identification and Neutralization (CCIN) framework, which sequentially identifies and neutralizes compositional conflicts for effective retrieval.
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
