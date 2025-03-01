@@ -29,13 +29,13 @@ His research interest focus on multi-modal retrieval. If you are seeking any for
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/total2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://www.ijcai.org/Proceedings/2024/0148.pdf)
+[CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval](https://likaitian.github.io/)
 
-**Likai Tian**, Zhengwei Yang, Zechao Hu, Hao Li, Yifang Yin, Zheng Wang
+**Likai Tian**, Jian Zhao, Zechao Hu, Zhengwei Yang, Hao Li, Lei Jin, Zheng Wang, Xuelong Li
 
-- This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. 
+- This work proposes a Compositional Conflict Identification and Neutralization (CCIN) framework, which sequentially identifies and neutralizes compositional conflicts for effective retrieval
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
