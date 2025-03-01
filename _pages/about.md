@@ -29,18 +29,24 @@ His research interest focus on multi-modal retrieval. If you are seeking any for
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
 
 # 📝 Publications 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://www.ijcai.org/Proceedings/2024/0148.pdf)
 
 **Likai Tian**, Zhengwei Yang, Zechao Hu, Hao Li, Yifang Yin, Zheng Wang
 
-<!-- - This work highlights the significance of salient frames in the Video-to-Shop Retrieval task and introduce fashion expressiveness to determine the saliency of each video frame. -->
 - This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/total.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://www.ijcai.org/Proceedings/2024/0148.pdf)
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+**Likai Tian**, Zhengwei Yang, Zechao Hu, Hao Li, Yifang Yin, Zheng Wang
+
+- This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11*, National Scholarship at Wuhan University
