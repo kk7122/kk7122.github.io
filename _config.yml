@@ -27,7 +27,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3dgSI6kAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=3dgSI6kAAAAJ"
   email            : "tianlikai@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
