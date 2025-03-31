@@ -61,4 +61,4 @@ His research interest focus on multi-modal retrieval. If you are seeking any for
 
 # 💻 Internships
 - *2025.01 - now*, [Meituan](https://www.meituan.com/), Beijing, China
-- *2024.05 - 2024.08*, [TeleAI](https://github.com/Tele-AI), Beijing, China
+- *2024.05 - 2024.08*, [TeleAI, China Telecom](https://github.com/Tele-AI), Beijing, China
