@@ -20,8 +20,7 @@ He is currently a 2nd-year master student of [AIM Lab](http://125.220.157.135:99
 His research interest focus on multi-modal retrieval. If you are seeking any form of academic cooperation on multi-modal retrieval and MLLM, please feel free to email at [tianlikai@whu.edu.cn](mailto:tianlikai@whu.edu.cn).
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
-- *2025.02*: &nbsp;🎉🎉 He serves as a reviewer for IEEE Transactions on Image Processing (TIP)!
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
 - *2024.11*: &nbsp;🎉🎉 He wins the National Scholarship at Wuhan University!
 - *2024.08*: &nbsp;🎉🎉 He attends IJCAI2024 in Jeju, Korea!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
