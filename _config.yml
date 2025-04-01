@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Likai Tian"
 description              : "Master at WHU AIM Lab"
-repository               : "LikaiTian/LikaiTian.github.io"
+repository               : "kk7122/kk7122.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  # weibo            : 1
+  weibo            : # 1
   xing             :
   youtube          :
   wikipedia        :
