@@ -28,7 +28,7 @@ His research interests focus on multi-modal analysis. If you are seeking any for
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/total2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval](https://www.researchgate.net/publication/390113383_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval)
+[CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval_CVPR_2025_paper.pdf)
 
 **Likai Tian**, Jian Zhao, Zechao Hu, Zhengwei Yang, Hao Li, Lei Jin, Zheng Wang, Xuelong Li
 
