@@ -58,5 +58,5 @@ His research interests focus on multi-modal analysis. If you are seeking any for
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University, Wuhan
 
 # 💻 Internships
-- *2025.01 - 2025.07*, [Meituan](https://www.meituan.com/), Beijing, China
+- *2025.01 - 2025.08*, [Meituan](https://www.meituan.com/), Beijing, China
 - *2024.05 - 2024.08*, [TeleAI](https://github.com/Tele-AI), advised by [Jian Zhao](https://zhaoj9014.github.io/), Beijing, China
