@@ -58,7 +58,7 @@ His research interests focus on multi-modal analysis. If you are seeking any for
 - *2019.09 - 2023.06*, Outstanding Student Scholarship at Wuhan University (3 times)
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan
+- *2023.09 - 2026.06*, Master, Wuhan University, Wuhan
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University, Wuhan
 
 # 💻 Internships
