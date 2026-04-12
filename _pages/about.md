@@ -20,9 +20,9 @@ He is currently a 3rd-year master student of [AIM Lab](http://125.220.157.135:99
 His research interests focus on multi-modal analysis. If you are seeking any form of academic cooperation on multi-modal analysis and MLLM, please feel free to email at [tianlikai@whu.edu.cn](mailto:tianlikai@whu.edu.cn).
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 He wins the National Scholarship at Wuhan University!
+- *2025.11*: &nbsp;🎉🎉 He wins the National Scholarship!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
-- *2024.11*: &nbsp;🎉🎉 He wins the National Scholarship at Wuhan University!
+- *2024.11*: &nbsp;🎉🎉 He wins the National Scholarship!
 - *2024.08*: &nbsp;🎉🎉 He attends IJCAI2024 in Jeju, Korea!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024!
 
